@@ -6,7 +6,7 @@ Our project uses several sensors to monitor the plant and shows this data on a w
 
 In addition, you can control the light and the irrigation from the website. 
 
-<img src="https://github.com/emb-growbox/.github/blob/main/UI1.JPG" alt="drawing"/>
+<img src="https://github.com/emb-growbox/.github/blob/main/profile/UI1.JPG" alt="drawing"/>
 
 Moreover, you can add your personal details to get notified by telegram when the water tank needs to be fulfilled.
 
