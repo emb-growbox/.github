@@ -1,6 +1,8 @@
 
 # GROW BOX
 
+![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+
 GROW BOX was made to control and monitor a home plant.
 Our project uses several sensors to monitor the plant and shows this data on a well-designed web site.
 
