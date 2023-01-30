@@ -1,8 +1,6 @@
 
 # GROW BOX
 
-![Logo](https://github.com/emb-growbox/.github/blob/main/profile/logo.png)
-
 GROW BOX was made to control and monitor a home plant.
 Our project uses several sensors to monitor the plant and shows this data on a well-designed web site.
 
