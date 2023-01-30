@@ -6,9 +6,16 @@ Our project uses several sensors to monitor the plant and shows this data on a w
 
 In addition, you can control the light and the irrigation from the website. 
 
+<img src="./UI1.png" alt="drawing" width="400" height="400"/>
+
 Moreover, you can add your personal details to get notified when the water tank needs to be fulfilled.
+<img src="./UI3.png" alt="drawing" width="400" height="400"/>
+
 
 You can also check our cool graphs that show you the data from the past week.
+
+<img src="./UI2.png" alt="drawing" width="400" height="400"/>
+
 
 ## Requirements
 
