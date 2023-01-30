@@ -10,12 +10,12 @@ In addition, you can control the light and the irrigation from the website.
 
 Moreover, you can add your personal details to get notified by telegram when the water tank needs to be fulfilled.
 
-<img src="./UI3.JPG" alt="drawing" />
+<img src="https://github.com/emb-growbox/.github/blob/main/profile/UI3.JPG" alt="drawing" />
 
 
 You can also check our cool graphs that show you the data from the past week.
 
-<img src="./UI2.JPG" alt="drawing"/>
+<img src="https://github.com/emb-growbox/.github/blob/main/profile/UI2.JPG" alt="drawing"/>
 
 
 ## Requirements
@@ -119,4 +119,4 @@ All members worked together on all the features (pair programming)
 
 ## Acknowledgments
 
-<a href="https://www.unitn.it/"><img src="./unitn_logo.png" width="300px"></a> <a href="https://ege.edu.tr/"><img src="./ege_logo.png" width="100px"></a>
+<a href="https://www.unitn.it/"><img src="https://github.com/emb-growbox/.github/blob/main/profile/unitn_logo.png" width="300px"></a> <a href="https://ege.edu.tr/"><img src="https://github.com/emb-growbox/.github/blob/main/profile/ege_logo.png" width="100px"></a>
