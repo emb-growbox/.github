@@ -1,4 +1,5 @@
-# GROW BOX  <img src="./logo-white.png" alt="drawing" width="50" height="50"/>
+# GROW BOX  
+
 
 GROW BOX was made to control and monitor a home plant.
 Our project uses several sensors to monitor the plant and shows this data on a well-designed web site.
@@ -106,3 +107,8 @@ You can also check our cool graphs that show you the data from the past week.
 
 
 All members worked together on all the features (pair programming)
+
+
+## Acknowledgments
+
+<a href="https://www.unitn.it/"><img src="./unitn_logo.png" width="300px"></a> <a href="https://ege.edu.tr/"><img src="./ege_logo.png" width="100px"></a>
