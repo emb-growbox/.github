@@ -94,7 +94,7 @@ You can also check our cool graphs that show you the data from the past week.
 
 ## Important links
 
- - [Power point Presentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Power Point Presentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
  - [Demo](https://github.com/matiassingers/awesome-readme)
 
 
