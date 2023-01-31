@@ -1,7 +1,10 @@
 # GROW BOX  
 
+<p float="left">
 <img src="https://github.com/emb-growbox/.github/blob/main/profile/groboximage.jpeg" alt="drawing" width="500" height="500"/>
 <img src="https://github.com/emb-growbox/.github/blob/main/profile/groboxside.jpeg" alt="drawing" width="500" height="500"/>
+</p>
+
 
 
 GROW BOX was made to control and monitor a home plant.
