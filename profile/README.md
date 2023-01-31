@@ -102,7 +102,7 @@ You can also check our cool graphs that show you the data from the past week.
 
 ## Important links
 
- - [Power Point Presentation](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Power Point Presentation](https://github.com/emb-growbox/.github/blob/main/profile/Grow Box Presentation.pptx)
  - [Demo](https://github.com/matiassingers/awesome-readme)
 
 
