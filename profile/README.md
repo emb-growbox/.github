@@ -8,12 +8,7 @@ In addition, you can control the light and the irrigation from the website.
 
 <img src="https://github.com/emb-growbox/.github/blob/main/profile/UI1.JPG" alt="drawing"/>
 
-Moreover, you can add your personal details to get notified by telegram when the water tank needs to be fulfilled.
-
-<img src="https://github.com/emb-growbox/.github/blob/main/profile/UI3.JPG" alt="drawing" />
-
-
-You can also check our cool graphs that show you the data from the past week.
+Moreover, you can also check our cool graphs that show you the data from the past week.
 
 <img src="https://github.com/emb-growbox/.github/blob/main/profile/UI2.JPG" alt="drawing"/>
 
@@ -50,8 +45,6 @@ You can also check our cool graphs that show you the data from the past week.
             ├── tuttoetutto.ino # source code
     ├── emb-grow-box-arduino 
             ├── new_arduino_wifi.ino # source code 
-    ├── emb-grow-box-telegram-bot 
-            ├── placeholder # source code 
     ├── emb-growbox-client 
             ├── build   
             ├── public   
