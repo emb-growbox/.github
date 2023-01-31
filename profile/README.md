@@ -106,4 +106,23 @@ Sensors connections on the MSP432:
     npm install
     npm start
 
+## Important links
 
+ - [Power Point Presentation](https://github.com/emb-growbox/.github/blob/main/profile/GrowBoxPresentation.pptx)
+ - [Demo](https://www.youtube.com/watch?v=yCnCZD9SxUw)
+
+
+
+## Team members
+
+- Andrea Bassi
+- Imri Koch
+- Stefano Antonio Putelli
+
+
+All members worked together on all the features (pair programming)
+
+
+## Acknowledgments
+
+<a href="https://www.unitn.it/"><img src="https://github.com/emb-growbox/.github/blob/main/profile/unitn_logo.png" width="300px"></a> <a href="https://ege.edu.tr/"><img src="https://github.com/emb-growbox/.github/blob/main/profile/ege_logo.png" width="100px"></a>
