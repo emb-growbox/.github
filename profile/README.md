@@ -1,5 +1,8 @@
 # GROW BOX  
 
+<img src="https://github.com/emb-growbox/.github/blob/main/profile/groboximage.JPEG" alt="drawing"/>
+<img src="https://github.com/emb-growbox/.github/blob/main/profile/groboxside.JPEG" alt="drawing"/>
+
 
 GROW BOX was made to control and monitor a home plant.
 Our project uses several sensors to monitor the plant and shows this data on a well-designed web site.
